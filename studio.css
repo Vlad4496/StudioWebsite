@@ -149,4 +149,34 @@ ul li span {
     background-color: rgb(19, 19, 19);
     width: 100vw;
     height: 100vh;
+    color: rgb(197, 197, 197);
 }
+.container-3 .head span {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 2em;
+    margin: 2em;
+}
+.container-3 div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 70%;
+    width: 80%;
+    margin-left: 50%;
+    transform: translate(-50%);
+}
+.container-3 div h1 {
+    font-weight: 100;
+    padding: 1em;
+    border-bottom: 1px solid rgb(195, 195, 195);
+}
+.container-3 div h1 span {
+    font-size: 2em;
+    margin-right: 1em;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
